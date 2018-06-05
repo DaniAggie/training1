@@ -1,2 +1,3 @@
 This is my camera feature.
 Added panarama to camera.
+Added support for news feed.
