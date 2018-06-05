@@ -1,0 +1,1 @@
+Shows posts from all your friends.
