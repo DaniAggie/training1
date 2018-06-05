@@ -1,1 +1,2 @@
 This is my camera feature.
+Added panarama to camera.
